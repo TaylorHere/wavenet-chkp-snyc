@@ -1,6 +1,6 @@
-model_checkpoint_path: "model_epoch_07_gs_7000"
-all_model_checkpoint_paths: "model_epoch_03_gs_3000"
+model_checkpoint_path: "model_epoch_08_gs_8000"
 all_model_checkpoint_paths: "model_epoch_04_gs_4000"
 all_model_checkpoint_paths: "model_epoch_05_gs_5000"
 all_model_checkpoint_paths: "model_epoch_06_gs_6000"
 all_model_checkpoint_paths: "model_epoch_07_gs_7000"
+all_model_checkpoint_paths: "model_epoch_08_gs_8000"
