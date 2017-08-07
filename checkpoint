@@ -1,6 +1,6 @@
-model_checkpoint_path: "model_epoch_27_gs_27000"
-all_model_checkpoint_paths: "model_epoch_23_gs_23000"
+model_checkpoint_path: "model_epoch_28_gs_28000"
 all_model_checkpoint_paths: "model_epoch_24_gs_24000"
 all_model_checkpoint_paths: "model_epoch_25_gs_25000"
 all_model_checkpoint_paths: "model_epoch_26_gs_26000"
 all_model_checkpoint_paths: "model_epoch_27_gs_27000"
+all_model_checkpoint_paths: "model_epoch_28_gs_28000"
